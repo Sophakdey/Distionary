@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/sak/AndroidStudioProjects/DistionaryIdol/app/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5025063c4c03baa1b6759432195024dd8e5a3f92">
+        <dex dex="/home/sak/AndroidStudioProjects/DistionaryIdol/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-gridlayout-v7-25.0.0_38169c25ad0e510c310ef0171439133b1c8bdc80/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sak/AndroidStudioProjects/DistionaryIdol/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/home/sak/AndroidStudioProjects/DistionaryIdol/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_53f7f552f3b6a6378c7f273a662c138dddd1a16b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sak/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-beta2/constraint-layout-solver-1.0.0-beta2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e5436cefb7e5c057655ed13ad54b56e1931f47fe">
+        <dex dex="/home/sak/AndroidStudioProjects/DistionaryIdol/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-beta2_b3f5a940ebb15d2e80810ebe5ed688937f1b82b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sak/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/home/sak/AndroidStudioProjects/DistionaryIdol/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_f8b9911a03d22a349d8bb22ec5476ed3440ac405/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sak/AndroidStudioProjects/DistionaryIdol/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/home/sak/AndroidStudioProjects/DistionaryIdol/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_587b5cb5733de0bc8a6dfaa103f4458e53066b10/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sak/AndroidStudioProjects/DistionaryIdol/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0b8123c5be3be056ae828bb5a230d0f2e87328fb">
+        <dex dex="/home/sak/AndroidStudioProjects/DistionaryIdol/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6de7f431313506f3f5a31a72c5a93d7749860422/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sak/AndroidStudioProjects/DistionaryIdol/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/home/sak/AndroidStudioProjects/DistionaryIdol/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.0_d1727b995619746792b5f72176b426667d4d6628/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sak/.gradle/caches/modules-2/files-2.1/com.readystatesoftware.sqliteasset/sqliteassethelper/2.0.1/d5f02e4a4d65ec0fbb339f2e4228723d1540bb9f/sqliteassethelper-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5f02e4a4d65ec0fbb339f2e4228723d1540bb9f">
+        <dex dex="/home/sak/AndroidStudioProjects/DistionaryIdol/app/build/intermediates/transforms/dex/debug/folders/1000/10/sqliteassethelper-2.0.1_99985fb404be5a23e0a09c4098113d0247b1a355/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sak/AndroidStudioProjects/DistionaryIdol/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-beta2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2077d7df72a3bd79570646c4524cee598d1344a2">
+        <dex dex="/home/sak/AndroidStudioProjects/DistionaryIdol/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support.constraint-constraint-layout-1.0.0-beta2_a829a0cf720f841cde94bb45b0741ed1abe2fda7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sak/AndroidStudioProjects/DistionaryIdol/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/home/sak/AndroidStudioProjects/DistionaryIdol/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_58cd1f33a780b487f215d08f848fc0fccaabcf90/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sak/AndroidStudioProjects/DistionaryIdol/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/home/sak/AndroidStudioProjects/DistionaryIdol/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_071e7523e0742883531fe3230c3bed94d991f2ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sak/AndroidStudioProjects/DistionaryIdol/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/home/sak/AndroidStudioProjects/DistionaryIdol/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_07f5a75c4e72bc798ad2b6965d47fd72cd48991d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sak/AndroidStudioProjects/DistionaryIdol/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0a35e210c7b91ea74e10ace3d69a5b608c7cb5c2">
+        <dex dex="/home/sak/AndroidStudioProjects/DistionaryIdol/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b8f3c9c63e6aabdf14f015a137fa83c481580f4e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sak/AndroidStudioProjects/DistionaryIdol/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/home/sak/AndroidStudioProjects/DistionaryIdol/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_e869fb337c08cfadbd18f66a7ad2e8112c165933/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sak/AndroidStudioProjects/DistionaryIdol/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/home/sak/AndroidStudioProjects/DistionaryIdol/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_d142c11ada84b892027a0292a1945f587ef2edac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sak/AndroidStudioProjects/DistionaryIdol/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/home/sak/AndroidStudioProjects/DistionaryIdol/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_83c0de65cdf2a536a091b84f7352f7dc95c35c23/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sak/AndroidStudioProjects/DistionaryIdol/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/home/sak/AndroidStudioProjects/DistionaryIdol/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_92fb84d11c1c82376cf111e32bfa2e27a58d5180/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sak/AndroidStudioProjects/DistionaryIdol/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/home/sak/AndroidStudioProjects/DistionaryIdol/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_5efd403f4b5c5e0f17c26b8f71019743b9989103/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sak/AndroidStudioProjects/DistionaryIdol/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/sak/AndroidStudioProjects/DistionaryIdol/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_f71d52af04bf7d862971498bae8e5c9d48746ce3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sak/AndroidStudioProjects/DistionaryIdol/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/home/sak/AndroidStudioProjects/DistionaryIdol/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_8ff90251737af4d9803ab4cdc9eb19fb397a6a07/classes.dex" />
+    </item>
+
+</items>
